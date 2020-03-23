@@ -1,0 +1,27 @@
+date: "2020-03-22"
+source:
+  nom: ARS Normandie
+  url: https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir?parent=13860
+  archive: 
+donneesRegionales:
+  nom: Normandie
+  code: REG-28
+  casConfirmes: 462 # +117 par rapport à hier
+  deces: 7 
+  hospitalises: 70 # +1 par rapport à hier
+donneesDepartementales:
+  - nom: Manche
+    code: DEP-50
+    casConfirmes: 87 # +24 par rapport à hier
+  - nom: Calvados
+    code: DEP-14
+    casConfirmes: 129 # +30 par rapport à hier
+  - nom: Seine-Maritime
+    code: DEP-76
+    casConfirmes: 170 # + 42 par rapport à hier
+  - nom: Eure
+    code: DEP-27
+    casConfirmes: 52 # +13 par rapport à hier
+  - nom: Orne
+    code: DEP-61
+    casConfirmes: 23 # +8 par rapport à hier
