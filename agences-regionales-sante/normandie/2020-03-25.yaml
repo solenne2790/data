@@ -26,7 +26,7 @@ donneesDepartementales:
    - nom: Eure
     code: DEP-27
     casConfirmes: 
-    hospitalises: 12 #+0 par rapport à hier 
+    hospitalises: 22 #+10 par rapport à hier 
   - nom: Orne
     code: DEP-61
     casConfirmes: 
