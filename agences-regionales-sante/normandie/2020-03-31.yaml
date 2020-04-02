@@ -1,0 +1,35 @@
+date: 2020-04-01
+source: ARS
+  nom: Agence Regionale de sante Normandie
+  url: https://www.normandie.ars.sante.fr/system/files/2020-03/20200331_CP-point-situation-normandie.pdf
+  archive: https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-1er-avril-2020
+donneesRegionales:
+  nom: Normandie
+  donneesRegionales:
+  nom: Normandie
+  code: REG-28
+  casConfirmes: 1465 # +94 par rapport à hier
+  personnesHospitalisees: 566 # +31 par rapport a hier
+  deces: 69 # +7 depuis hier : 1 dans le Calvados, 2 dans l’Orne et 4 dans la Seine-Maritime. 
+donneesDepartementales:
+  - nom: Manche
+    code: DEP-50
+    casConfirmes: 
+    hospitalises: 54 #+7 par rapport à hier
+  - nom: Calvados
+    code: DEP-14
+    casConfirmes: 
+    hospitalises: 111 # +19 depuis hier
+  - nom: Seine-Maritime
+    code: DEP-76
+    casConfirmes: 
+    hospitalises: 309 #+4 par rapport à hier
+   - nom: Eure
+    code: DEP-27
+    casConfirmes: 
+    hospitalises: 43 #+0 pas rapport à hier 
+  - nom: Orne
+    code: DEP-61
+    casConfirmes: 
+    hospitalises: 49 #12 par rapport à hier
+
